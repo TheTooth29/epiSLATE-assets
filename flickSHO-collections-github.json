@@ -1,0 +1,1609 @@
+[
+  {
+    "id": "collection-bc-9d385ff48f9d4204-2",
+    "title": "DISCOVER",
+    "folders": [
+      {
+        "id": "folder-bc-734b38fd11b8",
+        "title": "New Releases",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.224808"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.224829"
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "custom.community_betterposters.movie.tmdb_latest"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "custom.community_betterposters.series.tmdb_latest_shows"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/discover/Chat-GPT-Image-New-Releases.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.224808"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.224829"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_betterposters.movie.tmdb_latest"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_betterposters.series.tmdb_latest_shows"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-bc-11c51d8f3565",
+        "title": "AI Recommendations",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": "Movies | Because You Watched",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_cs_6151318",
+              "name": "Movies | Because You Watched",
+              "type": "movie"
+            },
+            "display": {
+              "name": "Movies | Because You Watched"
+            },
+            "provider": "addon",
+            "catalogId": "recommendations.movies",
+            "catalogName": "Movies | Because You Watched"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": "Series | Because You Watched",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_cs_6151319",
+              "name": "Series | Because You Watched",
+              "type": "series"
+            },
+            "display": {
+              "name": "Series | Because You Watched"
+            },
+            "provider": "addon",
+            "catalogId": "recommendations.series",
+            "catalogName": "Series | Because You Watched"
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "com.aicat.d6b56d2d-e0ed-46e2-85f1-f5df243b40d8.nuvio",
+            "provider": "addon",
+            "catalogId": "aicat_because_watched_home_movie_v12558352"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "com.aicat.d6b56d2d-e0ed-46e2-85f1-f5df243b40d8.nuvio",
+            "provider": "addon",
+            "catalogId": "aicat_because_watched_home_series_v12558355"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/discover/Chat-GPT-Image-AI-Recs.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "recommendations.movies"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "recommendations.series"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.d6b56d2d-e0ed-46e2-85f1-f5df243b40d8.nuvio",
+            "catalogId": "aicat_because_watched_home_movie_v12558352"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.d6b56d2d-e0ed-46e2-85f1-f5df243b40d8.nuvio",
+            "catalogId": "aicat_because_watched_home_series_v12558355"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-bc-32ca7bd381b2",
+        "title": "Trending",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": "Movies",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_list_83382",
+              "name": "Movies",
+              "type": "movie"
+            },
+            "display": {
+              "name": "Movies"
+            },
+            "provider": "addon",
+            "catalogId": "simkl.trending.movies",
+            "catalogName": "Movies"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": "Series",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_list_83387",
+              "name": "Series",
+              "type": "series"
+            },
+            "display": {
+              "name": "Series"
+            },
+            "provider": "addon",
+            "catalogId": "simkl.trending.shows",
+            "catalogName": "Series"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/discover/New-Trending-Nuvio-Collection.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "simkl.trending.movies"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "simkl.trending.shows"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-b790c003",
+        "title": "Coming Soon",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "custom.community_betterposters.movie.tmdb_coming"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "custom.community_betterposters.series.tmdb_coming_shows"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/discover/8d2eabe3-0893-4ab7-aca4-697437ca7e18.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_betterposters.movie.tmdb_coming"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_betterposters.series.tmdb_coming_shows"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-bc-fa59bf19c393",
+        "title": "Top Lists",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": "Letterboxd's Top 500 Films",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_list_83492",
+              "name": "Letterboxd's Top 500 Films",
+              "type": "movie"
+            },
+            "display": {
+              "name": "Letterboxd's Top 500 Films"
+            },
+            "provider": "addon",
+            "catalogId": "letterboxd.8HjM",
+            "catalogName": "Letterboxd's Top 500 Films"
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.1qX2M"
+          },
+          {
+            "type": "all",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.uAXWQ"
+          },
+          {
+            "type": "all",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.2Qq4Q"
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.nVqt6"
+          },
+          {
+            "type": "all",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.4XYnu"
+          },
+          {
+            "type": "all",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.aZ1F8"
+          },
+          {
+            "type": "all",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.1R3EO"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/discover/Chat-GPT-Image-Top-Lists.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.8HjM"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.1qX2M"
+          },
+          {
+            "type": "all",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.uAXWQ"
+          },
+          {
+            "type": "all",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.2Qq4Q"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.nVqt6"
+          },
+          {
+            "type": "all",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.4XYnu"
+          },
+          {
+            "type": "all",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.aZ1F8"
+          },
+          {
+            "type": "all",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.1R3EO"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": false,
+    "backdropImageUrl": "",
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-bc-3eda47d6ba86459c-2",
+    "title": "STREAMING PLATFORMS",
+    "folders": [
+      {
+        "id": "folder-bc-bf348eb3b699",
+        "title": "Netflix",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.release_date.mrt7o262"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series_air_date.mrt85c13"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies_popular.mujxpfjx"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series_popular.mujxuzie"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/netflix.webp",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/netflix.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.release_date.mrt7o262"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series_air_date.mrt85c13"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies_popular.mujxpfjx"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series_popular.mujxuzie"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-bc-baefd6a790d7",
+        "title": "Prime VIdeo",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "Movie",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_118334",
+              "name": "Movie",
+              "type": "movie"
+            },
+            "display": {
+              "name": "Movie"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movie.mrtac007",
+            "catalogName": "Movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "Series",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_118335",
+              "name": "Series",
+              "type": "series"
+            },
+            "display": {
+              "name": "Series"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series.mrtad6v9",
+            "catalogName": "Series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies_popular.mump53pk"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series_popular.mump8xqw"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/prime-video.webp",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/prime-video.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/prime-video.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movie.mrtac007"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series.mrtad6v9"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies_popular.mump53pk"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series_popular.mump8xqw"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-bc-c2155f536c7a",
+        "title": "Disney +",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "Movie",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_118336",
+              "name": "Movie",
+              "type": "movie"
+            },
+            "display": {
+              "name": "Movie"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movie.mrt95mo4",
+            "catalogName": "Movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "Series",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_118337",
+              "name": "Series",
+              "type": "series"
+            },
+            "display": {
+              "name": "Series"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series.mrt97r56",
+            "catalogName": "Series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies_copy.mumsd3xi"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series_copy.mumsffuh"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/disney-plus.webp",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/disney-plus.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/disney-plus.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movie.mrt95mo4"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series.mrt97r56"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies_copy.mumsd3xi"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series_copy.mumsffuh"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-bc-0cc1d1b4e180",
+        "title": "Apple TV",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "Movies",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_118338",
+              "name": "Movies",
+              "type": "movie"
+            },
+            "display": {
+              "name": "Movies"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.apple_tv.mrtbdgnp",
+            "catalogName": "Movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "Series",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_118339",
+              "name": "Series",
+              "type": "series"
+            },
+            "display": {
+              "name": "Series"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series.mrtbfzad",
+            "catalogName": "Series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies_copy.mumslhq8"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series_copy.mumsqpbt"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/apple-tv.webp",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/apple-tv.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/apple-tv.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.apple_tv.mrtbdgnp"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series.mrtbfzad"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies_copy.mumslhq8"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series_copy.mumsqpbt"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-bc-4dbae2962170",
+        "title": "HBO Max",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "Movie",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_118340",
+              "name": "Movie",
+              "type": "movie"
+            },
+            "display": {
+              "name": "Movie"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movie.mrtye7hi",
+            "catalogName": "Movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "Series",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_118341",
+              "name": "Series",
+              "type": "series"
+            },
+            "display": {
+              "name": "Series"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series.mrtyhrqx",
+            "catalogName": "Series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies_release_date_copy.mumu5nkq"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series_release_date_copy.mumu6lmx"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/hbo-max.webp",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/hbo-max.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/hbo-max.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movie.mrtye7hi"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series.mrtyhrqx"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies_release_date_copy.mumu5nkq"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series_release_date_copy.mumu6lmx"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-bc-d754242c0eaa",
+        "title": "Hulu",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "Movies",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_147417",
+              "name": "Movies",
+              "type": "movie"
+            },
+            "display": {
+              "name": "Movies"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies.msoli28q",
+            "catalogName": "Movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "Series",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_147418",
+              "name": "Series",
+              "type": "series"
+            },
+            "display": {
+              "name": "Series"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series.msolkjuq",
+            "catalogName": "Series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies_release_date_copy.mumufyjd"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series_release_date_copy.mumuixoh"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/hulu.webp",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/hulu.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/hulu.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies.msoli28q"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series.msolkjuq"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies_release_date_copy.mumufyjd"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series_release_date_copy.mumuixoh"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-bc-2883d01171bc",
+        "title": "Paramount +",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "Movies",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_147551",
+              "name": "Movies",
+              "type": "movie"
+            },
+            "display": {
+              "name": "Movies"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.paramount.mrv9rxc9",
+            "catalogName": "Movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "Series",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_118343",
+              "name": "Series",
+              "type": "series"
+            },
+            "display": {
+              "name": "Series"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series.mrv9y1ps",
+            "catalogName": "Series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies_release_date_copy.mumvql3d"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series_release_date_copy.mumvrurw"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/paramount-plus.webp",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/paramount-plus.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/paramount-plus.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.paramount.mrv9rxc9"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series.mrv9y1ps"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies_release_date_copy.mumvql3d"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series_release_date_copy.mumvrurw"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-bc-5d548b23bf28",
+        "title": "Peacock",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "Movie",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_118344",
+              "name": "Movie",
+              "type": "movie"
+            },
+            "display": {
+              "name": "Movie"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movie.mrvc4u8c",
+            "catalogName": "Movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "Series",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_118345",
+              "name": "Series",
+              "type": "series"
+            },
+            "display": {
+              "name": "Series"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series.mrvc9ed9",
+            "catalogName": "Series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies_release_date_copy.mumw2j0z"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series_release_date_copy.mumw429d"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/peacock.webp",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/peacock.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/peacock.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movie.mrvc4u8c"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series.mrvc9ed9"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies_release_date_copy.mumw2j0z"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series_release_date_copy.mumw429d"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-bc-71c7bf9719d6",
+        "title": "Starz",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "Movies",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_118346",
+              "name": "Movies",
+              "type": "movie"
+            },
+            "display": {
+              "name": "Movies"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies.mrvclzo3",
+            "catalogName": "Movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "Series",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_118347",
+              "name": "Series",
+              "type": "series"
+            },
+            "display": {
+              "name": "Series"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series.mrvco6or",
+            "catalogName": "Series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies_release_date_copy.mumwcr95"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series_release_date_copy.mumwdpes"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/starz.webp",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/starz.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/starz.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies.mrvclzo3"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series.mrvco6or"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies_release_date_copy.mumwcr95"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series_release_date_copy.mumwdpes"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-bc-6cba835d8266",
+        "title": "Discovey +",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "Movies",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_118348",
+              "name": "Movies",
+              "type": "movie"
+            },
+            "display": {
+              "name": "Movies"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies.mrvcy3o7",
+            "catalogName": "Movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "Series",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_118349",
+              "name": "Series",
+              "type": "series"
+            },
+            "display": {
+              "name": "Series"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series.mrvczfyz",
+            "catalogName": "Series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies_release_date_copy.mumwj2k8"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series_release_date_copy.mumybeb8"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/discovery-plus.webp",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/discovery-plus.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/discovery-plus.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies.mrvcy3o7"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series.mrvczfyz"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies_release_date_copy.mumwj2k8"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series_release_date_copy.mumybeb8"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-bc-0c15fc135d53",
+        "title": "Shudder",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "Movies",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_151174",
+              "name": "Movies",
+              "type": "movie"
+            },
+            "display": {
+              "name": "Movies"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies.msqlbao5",
+            "catalogName": "Movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "Series",
+            "addonId": "aio-metadata",
+            "catalog": {
+              "id": "aicat_external_151175",
+              "name": "Series",
+              "type": "series"
+            },
+            "display": {
+              "name": "Series"
+            },
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series.msqlgeqc",
+            "catalogName": "Series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies_copy.mumwj4sz"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series_release_date_copy.mumx21zr"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/shudder.webp",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/shudder.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/shudder.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies.msqlbao5"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series.msqlgeqc"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies_copy.mumwj4sz"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series_release_date_copy.mumx21zr"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "backdropImageUrl": "",
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collections-decades-community-2",
+    "title": "DECADES",
+    "folders": [
+      {
+        "id": "collections.decades.2020s",
+        "title": "2020s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies_2020_now.ms4qzlg0"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/focused/2020s.webp",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/cover/2020s.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies_2020_now.ms4qzlg0"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "collections.decades.2010s",
+        "title": "2010s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies_2010_2019.msqyrk0t"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/focused/2010s.webp",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/cover/2010s.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies_2010_2019.msqyrk0t"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "collections.decades.2000s",
+        "title": "2000s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies_2000_2009.msqywk19"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/focused/2000s.webp",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/cover/2000s.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies_2000_2009.msqywk19"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "collections.decades.1990s",
+        "title": "1990s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies_1990_1999.msqm165q"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/focused/1990s.webp",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/cover/1990s.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies_1990_1999.msqm165q"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "collections.decades.1980s",
+        "title": "1980s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies_1980_1989.msqyn6qm"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/focused/1980s.webp",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/cover/1980s.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies_1980_1989.msqyn6qm"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "collections.decades.1970s",
+        "title": "1970s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies_1970_1979.msrgfjea"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/focused/1970s.webp",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/cover/1970s.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies_1970_1979.msrgfjea"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "collections.decades.1960s",
+        "title": "1960s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies_1960_1969.msrghf06"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/focused/1960s.webp",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/cover/1960s.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies_1960_1969.msrghf06"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "collections.decades.1950s",
+        "title": "1950s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies_1950_1959.msrgjdoc"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/focused/1950s.webp",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/cover/1950s.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies_1950_1959.msrgjdoc"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "backdropImageUrl": "",
+    "focusGlowEnabled": true
+  }
+]

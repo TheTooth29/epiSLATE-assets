@@ -42,7 +42,7 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/discover/Chat-GPT-Image-New-Releases.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/discover/Chat-GPT-Image-New-Releases.png",
         "catalogSources": [
           {
             "type": "movie",
@@ -127,7 +127,7 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/discover/Chat-GPT-Image-AI-Recs.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/discover/Chat-GPT-Image-AI-Recs.png",
         "catalogSources": [
           {
             "type": "movie",
@@ -198,7 +198,7 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/discover/New-Trending-Nuvio-Collection.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/discover/New-Trending-Nuvio-Collection.png",
         "catalogSources": [
           {
             "type": "movie",
@@ -239,7 +239,7 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/discover/8d2eabe3-0893-4ab7-aca4-697437ca7e18.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/discover/8d2eabe3-0893-4ab7-aca4-697437ca7e18.png",
         "catalogSources": [
           {
             "type": "movie",
@@ -332,7 +332,7 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/discover/Chat-GPT-Image-Top-Lists.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/discover/Chat-GPT-Image-Top-Lists.png",
         "catalogSources": [
           {
             "type": "movie",
@@ -425,10 +425,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/netflix.webp",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/focused/netflix.webp",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/netflix.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/cover/netflix.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -514,10 +514,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/prime-video.webp",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/focused/prime-video.webp",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/prime-video.webp",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/prime-video.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/title/prime-video.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/cover/prime-video.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -603,10 +603,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/disney-plus.webp",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/focused/disney-plus.webp",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/disney-plus.webp",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/disney-plus.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/title/disney-plus.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/cover/disney-plus.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -692,10 +692,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/apple-tv.webp",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/focused/apple-tv.webp",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/apple-tv.webp",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/apple-tv.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/title/apple-tv.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/cover/apple-tv.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -781,10 +781,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/hbo-max.webp",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/focused/hbo-max.webp",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/hbo-max.webp",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/hbo-max.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/title/hbo-max.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/cover/hbo-max.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -870,10 +870,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/hulu.webp",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/focused/hulu.webp",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/hulu.webp",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/hulu.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/title/hulu.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/cover/hulu.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -959,10 +959,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/paramount-plus.webp",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/focused/paramount-plus.webp",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/paramount-plus.webp",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/paramount-plus.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/title/paramount-plus.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/cover/paramount-plus.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1048,10 +1048,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/peacock.webp",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/focused/peacock.webp",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/peacock.webp",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/peacock.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/title/peacock.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/cover/peacock.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1137,10 +1137,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/starz.webp",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/focused/starz.webp",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/starz.webp",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/starz.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/title/starz.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/cover/starz.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1226,10 +1226,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/discovery-plus.webp",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/focused/discovery-plus.webp",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/discovery-plus.webp",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/discovery-plus.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/title/discovery-plus.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/cover/discovery-plus.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1315,10 +1315,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/focused/shudder.webp",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/focused/shudder.webp",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/title/shudder.webp",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/streaming/cover/shudder.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/title/shudder.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/streaming/cover/shudder.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1374,10 +1374,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/focused/2020s.webp",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/decades/focused/2020s.webp",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/cover/2020s.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/decades/cover/2020s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1404,10 +1404,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/focused/2010s.webp",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/decades/focused/2010s.webp",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/cover/2010s.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/decades/cover/2010s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1434,10 +1434,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/focused/2000s.webp",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/decades/focused/2000s.webp",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/cover/2000s.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/decades/cover/2000s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1464,10 +1464,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/focused/1990s.webp",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/decades/focused/1990s.webp",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/cover/1990s.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/decades/cover/1990s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1494,10 +1494,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/focused/1980s.webp",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/decades/focused/1980s.webp",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/cover/1980s.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/decades/cover/1980s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1524,10 +1524,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/focused/1970s.webp",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/decades/focused/1970s.webp",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/cover/1970s.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/decades/cover/1970s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1554,10 +1554,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/focused/1960s.webp",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/decades/focused/1960s.webp",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/cover/1960s.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/decades/cover/1960s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1584,10 +1584,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/focused/1950s.webp",
+        "focusGifUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/decades/focused/1950s.webp",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/flickSHO-assets/main/collections/decades/cover/1950s.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/main/collections/decades/cover/1950s.webp",
         "catalogSources": [
           {
             "type": "movie",

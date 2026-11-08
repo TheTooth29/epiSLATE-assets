@@ -2,4 +2,4 @@
 
 Artwork and collection manifests for epiSLATE.
 
-Use epislate-collections-github.json once the repository is renamed to epiSLATE-assets.
+Use epislate-collections-github.json for new collection imports.

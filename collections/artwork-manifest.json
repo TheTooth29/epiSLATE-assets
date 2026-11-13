@@ -1,0 +1,692 @@
+[
+  {
+    "category": "genres",
+    "slug": "action",
+    "sourcePath": "collections/genres/cover/action.png",
+    "sourceSha": "0c6c1df80fb230d1ffff10bf37f58c3d4f26cdc7",
+    "sourceBytes": 4967630,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/genres/cover/action.png",
+    "deliveryPath": "collections/genres/cover/action.webp",
+    "archivePath": "archive/masters/2026-11-13/genres/action.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 394346,
+    "deliverySha": "dd9ac5d71915ea34ea5574b47bf74a80d57a3dc3",
+    "psnrDb": 38.01,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "genres",
+    "slug": "adventure",
+    "sourcePath": "collections/genres/cover/adventure.png",
+    "sourceSha": "9ac87f004fccce30b81fa603db3832555d51397b",
+    "sourceBytes": 5121046,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/genres/cover/adventure.png",
+    "deliveryPath": "collections/genres/cover/adventure.webp",
+    "archivePath": "archive/masters/2026-11-13/genres/adventure.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 460516,
+    "deliverySha": "db01d5fb79b08ce4a26b8f89788ef1ea75f7973c",
+    "psnrDb": 36.97,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "genres",
+    "slug": "animation",
+    "sourcePath": "collections/genres/cover/animation.png",
+    "sourceSha": "b0ad2606b64dbaaff22e9a131170ee832b54faff",
+    "sourceBytes": 5303215,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/genres/cover/animation.png",
+    "deliveryPath": "collections/genres/cover/animation.webp",
+    "archivePath": "archive/masters/2026-11-13/genres/animation.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 316374,
+    "deliverySha": "1f7bc5b4a8b9da7d666df67c0a573a837ed9643a",
+    "psnrDb": 38.28,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "genres",
+    "slug": "comedy",
+    "sourcePath": "collections/genres/cover/comedy.png",
+    "sourceSha": "1d733ee15ab154b8b9548175ab0a36005661d261",
+    "sourceBytes": 5375048,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/genres/cover/comedy.png",
+    "deliveryPath": "collections/genres/cover/comedy.webp",
+    "archivePath": "archive/masters/2026-11-13/genres/comedy.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 345132,
+    "deliverySha": "5fed6691ae014317d45126de02b058327b04c3a3",
+    "psnrDb": 38.5,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "genres",
+    "slug": "crime",
+    "sourcePath": "collections/genres/cover/crime.png",
+    "sourceSha": "9a392cb4dd1a1e8837f0cdc55abd55fc0111f9ba",
+    "sourceBytes": 5327394,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/genres/cover/crime.png",
+    "deliveryPath": "collections/genres/cover/crime.webp",
+    "archivePath": "archive/masters/2026-11-13/genres/crime.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 332916,
+    "deliverySha": "6482438c035d66f149ae6a0ee1d9d1e51309d6d4",
+    "psnrDb": 38.32,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "genres",
+    "slug": "documentary",
+    "sourcePath": "collections/genres/cover/documentary.png",
+    "sourceSha": "cb312bf1eb09a177d86615f66e6f843d3d2590ff",
+    "sourceBytes": 3646401,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/genres/cover/documentary.png",
+    "deliveryPath": "collections/genres/cover/documentary.webp",
+    "archivePath": "archive/masters/2026-11-13/genres/documentary.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 197366,
+    "deliverySha": "b1d31c47cee2fbf83dc3df9bf33fc18fe741dd93",
+    "psnrDb": 39.4,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "genres",
+    "slug": "drama",
+    "sourcePath": "collections/genres/cover/drama.png",
+    "sourceSha": "fabf8a35aa9d7a39cb9756c972e379713f546ffa",
+    "sourceBytes": 4450629,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/genres/cover/drama.png",
+    "deliveryPath": "collections/genres/cover/drama.webp",
+    "archivePath": "archive/masters/2026-11-13/genres/drama.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 194064,
+    "deliverySha": "a3630702714ee647eb3088cc1825ac360b6b54c0",
+    "psnrDb": 42.62,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "genres",
+    "slug": "family",
+    "sourcePath": "collections/genres/cover/family.png",
+    "sourceSha": "ff786f862c7f83ce51a8f1216ee7405e8ae5f821",
+    "sourceBytes": 5579403,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/genres/cover/family.png",
+    "deliveryPath": "collections/genres/cover/family.webp",
+    "archivePath": "archive/masters/2026-11-13/genres/family.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 429112,
+    "deliverySha": "7a466f266c9bf501a5079864bc1a20e54aeac08e",
+    "psnrDb": 37.58,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "genres",
+    "slug": "fantasy",
+    "sourcePath": "collections/genres/cover/fantasy.png",
+    "sourceSha": "1180686b0385d72aef51c75e1885a361d40b8261",
+    "sourceBytes": 5469070,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/genres/cover/fantasy.png",
+    "deliveryPath": "collections/genres/cover/fantasy.webp",
+    "archivePath": "archive/masters/2026-11-13/genres/fantasy.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 429952,
+    "deliverySha": "db07d27768a7b709a7dc57d07161813af6692917",
+    "psnrDb": 39.26,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "genres",
+    "slug": "history",
+    "sourcePath": "collections/genres/cover/history.png",
+    "sourceSha": "8948116c72bded451775242682f2d06d11ea97c2",
+    "sourceBytes": 5088079,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/genres/cover/history.png",
+    "deliveryPath": "collections/genres/cover/history.webp",
+    "archivePath": "archive/masters/2026-11-13/genres/history.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 347560,
+    "deliverySha": "3fdc726871afa2a714f2e406c47d31c608b15e45",
+    "psnrDb": 39.01,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "genres",
+    "slug": "horror",
+    "sourcePath": "collections/genres/cover/horror.png",
+    "sourceSha": "0bbf6ca9f3573cbbf272aa7454560bd9329ee246",
+    "sourceBytes": 4052884,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/genres/cover/horror.png",
+    "deliveryPath": "collections/genres/cover/horror.webp",
+    "archivePath": "archive/masters/2026-11-13/genres/horror.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 271906,
+    "deliverySha": "bc8357f1afcb9f766d7f692b8d0205839fb4dd0c",
+    "psnrDb": 40.27,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "genres",
+    "slug": "music",
+    "sourcePath": "collections/genres/cover/music.png",
+    "sourceSha": "b2413d223ff49e3070e0e10c266fd2de639be343",
+    "sourceBytes": 4728131,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/genres/cover/music.png",
+    "deliveryPath": "collections/genres/cover/music.webp",
+    "archivePath": "archive/masters/2026-11-13/genres/music.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 237658,
+    "deliverySha": "74ddcfb36f8824af71cbddf2431b6a7ecfd54247",
+    "psnrDb": 36.79,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "genres",
+    "slug": "mystery",
+    "sourcePath": "collections/genres/cover/mystery.png",
+    "sourceSha": "20ca8c10bedd37be569ee3c956274c6781f1ec5d",
+    "sourceBytes": 4730540,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/genres/cover/mystery.png",
+    "deliveryPath": "collections/genres/cover/mystery.webp",
+    "archivePath": "archive/masters/2026-11-13/genres/mystery.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 271170,
+    "deliverySha": "d5e7e31417e849ea76dadef7d3dea76c64480f9a",
+    "psnrDb": 39.2,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "genres",
+    "slug": "romance",
+    "sourcePath": "collections/genres/cover/romance.png",
+    "sourceSha": "a2406058d367505fed0c39545835ab3b80aa5d07",
+    "sourceBytes": 4865685,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/genres/cover/romance.png",
+    "deliveryPath": "collections/genres/cover/romance.webp",
+    "archivePath": "archive/masters/2026-11-13/genres/romance.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 258400,
+    "deliverySha": "38b2a6d33c28b8193e778f013750125bfe981d40",
+    "psnrDb": 40.05,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "genres",
+    "slug": "scifi",
+    "sourcePath": "collections/genres/cover/scifi.png",
+    "sourceSha": "f0791c47b32328e736754ddc7b6a1f95dc24e73a",
+    "sourceBytes": 3693109,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/genres/cover/scifi.png",
+    "deliveryPath": "collections/genres/cover/scifi.webp",
+    "archivePath": "archive/masters/2026-11-13/genres/scifi.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 179356,
+    "deliverySha": "eb2fd83bf0290fe5129cc4112715163adff01372",
+    "psnrDb": 39.16,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "genres",
+    "slug": "thriller",
+    "sourcePath": "collections/genres/cover/thriller.png",
+    "sourceSha": "f80530044fb16f138034e103e1dd4547de1be3d0",
+    "sourceBytes": 4695231,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/genres/cover/thriller.png",
+    "deliveryPath": "collections/genres/cover/thriller.webp",
+    "archivePath": "archive/masters/2026-11-13/genres/thriller.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 299058,
+    "deliverySha": "604343fa9848a8269b15384a2e1fca71b8f7f42c",
+    "psnrDb": 40.64,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "genres",
+    "slug": "war",
+    "sourcePath": "collections/genres/cover/war.png",
+    "sourceSha": "c2a38cb4954a32e8b7b9c4606773fa4d14e84e42",
+    "sourceBytes": 4299362,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/genres/cover/war.png",
+    "deliveryPath": "collections/genres/cover/war.webp",
+    "archivePath": "archive/masters/2026-11-13/genres/war.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 224316,
+    "deliverySha": "aadc0b4f8cf36d378d2cbd1f8d9b04a11c24d430",
+    "psnrDb": 40.73,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "genres",
+    "slug": "western",
+    "sourcePath": "collections/genres/cover/western.png",
+    "sourceSha": "01bc7d6eb55f050a97e2d7b6f5ce0c41f8ac6c0e",
+    "sourceBytes": 5032268,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/genres/cover/western.png",
+    "deliveryPath": "collections/genres/cover/western.webp",
+    "archivePath": "archive/masters/2026-11-13/genres/western.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 343900,
+    "deliverySha": "9a960ab85cf079d5a496fc9d48d3703d43a16cff",
+    "psnrDb": 37.2,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "decades",
+    "slug": "1950s",
+    "sourcePath": "collections/decades/cover/1950s.png",
+    "sourceSha": "05bdadd02f441fa55c26789db1448de365fe5c50",
+    "sourceBytes": 5974103,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/decades/cover/1950s.png",
+    "deliveryPath": "collections/decades/cover/1950s.webp",
+    "archivePath": "archive/masters/2026-11-13/decades/1950s.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 404920,
+    "deliverySha": "f1f53741e7bcdb0c5d335121aa2171d40e2cc31f",
+    "psnrDb": 39.66,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "decades",
+    "slug": "1960s",
+    "sourcePath": "collections/decades/cover/1960s.png",
+    "sourceSha": "95e27abc188a1828627a84105d22ac69718211de",
+    "sourceBytes": 5147663,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/decades/cover/1960s.png",
+    "deliveryPath": "collections/decades/cover/1960s.webp",
+    "archivePath": "archive/masters/2026-11-13/decades/1960s.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 396998,
+    "deliverySha": "c187d5096d76038eae02ec284284be5646d396fe",
+    "psnrDb": 39.3,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "decades",
+    "slug": "1970s",
+    "sourcePath": "collections/decades/cover/1970s.png",
+    "sourceSha": "85545ec099bdec71e85bd35fc9190f7077284aa6",
+    "sourceBytes": 5073944,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/decades/cover/1970s.png",
+    "deliveryPath": "collections/decades/cover/1970s.webp",
+    "archivePath": "archive/masters/2026-11-13/decades/1970s.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 262736,
+    "deliverySha": "cd35c3a3a92c6606164e11ef257a199fd8057d5e",
+    "psnrDb": 40.32,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "decades",
+    "slug": "1980s",
+    "sourcePath": "collections/decades/cover/1980s.png",
+    "sourceSha": "5722a3753e0a3e690eb8932c4bfb1343fbc15c0d",
+    "sourceBytes": 4272692,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/decades/cover/1980s.png",
+    "deliveryPath": "collections/decades/cover/1980s.webp",
+    "archivePath": "archive/masters/2026-11-13/decades/1980s.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 154690,
+    "deliverySha": "7395dd60f3c2c69676dfd2ada752a4ef7e8b78f5",
+    "psnrDb": 41.73,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "decades",
+    "slug": "1990s",
+    "sourcePath": "collections/decades/cover/1990s.png",
+    "sourceSha": "88273f2aebebbd6f7aae4708c9fa319cb112e204",
+    "sourceBytes": 5690266,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/decades/cover/1990s.png",
+    "deliveryPath": "collections/decades/cover/1990s.webp",
+    "archivePath": "archive/masters/2026-11-13/decades/1990s.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 557238,
+    "deliverySha": "3871d09d8da1386f26da2e2664520a3596b81007",
+    "psnrDb": 37.93,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "decades",
+    "slug": "2000s",
+    "sourcePath": "collections/decades/cover/2000s.png",
+    "sourceSha": "270a537e1b8b8b55323f326c447141e97eb839ad",
+    "sourceBytes": 4920821,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/decades/cover/2000s.png",
+    "deliveryPath": "collections/decades/cover/2000s.webp",
+    "archivePath": "archive/masters/2026-11-13/decades/2000s.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 394768,
+    "deliverySha": "f11520f3288a4bd6d3914a79e72ab068785d6919",
+    "psnrDb": 39.19,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "decades",
+    "slug": "2010s",
+    "sourcePath": "collections/decades/cover/2010s.png",
+    "sourceSha": "8df4f7b6381d36edf89ca68c1bc79fbc9f282f8a",
+    "sourceBytes": 4209804,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/decades/cover/2010s.png",
+    "deliveryPath": "collections/decades/cover/2010s.webp",
+    "archivePath": "archive/masters/2026-11-13/decades/2010s.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 258008,
+    "deliverySha": "78fa347db5e8f773d07e23c88abecaae45a7f3ed",
+    "psnrDb": 41.91,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "decades",
+    "slug": "2020s",
+    "sourcePath": "collections/decades/cover/2020s.png",
+    "sourceSha": "6c6cf5a9449dcd3c11aab796945630144ddfd3b5",
+    "sourceBytes": 3678843,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/decades/cover/2020s.png",
+    "deliveryPath": "collections/decades/cover/2020s.webp",
+    "archivePath": "archive/masters/2026-11-13/decades/2020s.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 152140,
+    "deliverySha": "57b33e9c7ea98ec250bf3eb930479030404ca181",
+    "psnrDb": 41.14,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "discover",
+    "slug": "new-releases",
+    "sourcePath": "collections/discover/Chat-GPT-Image-New-Releases.png",
+    "sourceSha": "83f5a8a1e32c3e20514575e57243984152a1629d",
+    "sourceBytes": 4736560,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/discover/Chat-GPT-Image-New-Releases.png",
+    "deliveryPath": "collections/discover/cover/new-releases.webp",
+    "archivePath": "archive/masters/2026-11-13/discover/new-releases.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 370760,
+    "deliverySha": "c3d8f1f00730f949260ac8cc2b895a1ed2c887e4",
+    "psnrDb": 37.98,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "discover",
+    "slug": "ai-picks",
+    "sourcePath": "collections/discover/Chat-GPT-Image-AI-Recs.png",
+    "sourceSha": "5924beeb209cbc149da8bb58956aa3681c7d9972",
+    "sourceBytes": 4047133,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/discover/Chat-GPT-Image-AI-Recs.png",
+    "deliveryPath": "collections/discover/cover/ai-picks.webp",
+    "archivePath": "archive/masters/2026-11-13/discover/ai-picks.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 265820,
+    "deliverySha": "8de479f90e3c54d25a56c1ef5ac0695480468085",
+    "psnrDb": 35.99,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "discover",
+    "slug": "trending",
+    "sourcePath": "collections/discover/New-Trending-Nuvio-Collection.png",
+    "sourceSha": "7ece9adf9caa7d167a3f2ba261ea20be5cdb6b7b",
+    "sourceBytes": 3270832,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/discover/New-Trending-Nuvio-Collection.png",
+    "deliveryPath": "collections/discover/cover/trending.webp",
+    "archivePath": "archive/masters/2026-11-13/discover/trending.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 127164,
+    "deliverySha": "943ed615952606d65d64dfd0026af75017baa3f0",
+    "psnrDb": 40.03,
+    "quality": 90,
+    "format": "WEBP"
+  },
+  {
+    "category": "discover",
+    "slug": "coming-soon",
+    "sourcePath": "collections/discover/8d2eabe3-0893-4ab7-aca4-697437ca7e18.png",
+    "sourceSha": "bccc229707d02f29993fb25635295c5c112581e0",
+    "sourceBytes": 3461794,
+    "url": "https://raw.githubusercontent.com/TheTooth29/epiSLATE-assets/867a897d6c69d18092555d63a6fd1dca1bd6f563/collections/discover/8d2eabe3-0893-4ab7-aca4-697437ca7e18.png",
+    "deliveryPath": "collections/discover/cover/coming-soon.webp",
+    "archivePath": "archive/masters/2026-11-13/discover/coming-soon.png",
+    "originalDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryDimensions": [
+      1920,
+      1080
+    ],
+    "deliveryBytes": 183900,
+    "deliverySha": "9a8d6edc8f604c3f80fbad2708184ddfa0824ccc",
+    "psnrDb": 38.41,
+    "quality": 90,
+    "format": "WEBP"
+  }
+]
